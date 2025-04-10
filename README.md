@@ -8,7 +8,7 @@ Hi and welcome to my GitHub profile! I am an individual pursuing a Bachelor in S
 - **Tools**: Git, GitHub
 
 ## 📈 GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eiansiah)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eiansiah&theme=blueberry)](https://git.io/streak-stats)
 
 ## 🧑‍💻 Notable Project Experience
 ### Mobile Health App
