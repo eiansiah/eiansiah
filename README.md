@@ -3,7 +3,7 @@ Hi and welcome to my GitHub profile! I am an individual pursuing a Bachelor Degr
 
 ## 🔧 Programming Languages and Tools
 - **Languages**: C++, CSS, Dart, Java, Java, JavaScript, Kotlin, HTML, PHP, Python, Solidity
-- **Database Management**: DBeaver, Firebase, MySQL, Oracle SQL
+- **Database Management**: DBeaver, Firebase, MySQL, Oracle DB
 - **Framework**: Flutter
 - **Tools**: Git, GitHub
 
