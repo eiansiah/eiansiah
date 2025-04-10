@@ -9,8 +9,7 @@ Hi and welcome to my GitHub profile! I am an individual pursuing a Bachelor in S
 
 ## 📈 GitHub Statistics
 [![GitHub Streak](https://github-readme-streak-stats-seven-kappa.vercel.app?user=eiansiah&theme=blueberry-duo)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-13jf-eiansiahs-projects.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-13jf-git-main-eiansiahs-projects.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧑‍💻 Notable Project Experience
 ### Mobile Health App
