@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I am an individual pursuing a Bachelor in Software Engineering. I enjoy developing projects in various languages and i am always eager and open to learn new things.
 <!--
 **eiansiah/eiansiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
