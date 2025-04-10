@@ -1,7 +1,7 @@
 I am an individual pursuing a Bachelor in Software Engineering. I enjoy developing projects in various languages and i am always eager and open to learn new things.
 
 # 📈 GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eiansiah)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lol8005)](https://git.io/streak-stats)
 <!--
 **eiansiah/eiansiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
