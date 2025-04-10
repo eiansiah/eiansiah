@@ -2,7 +2,7 @@
 Hi and welcome to my GitHub profile! I am an individual pursuing a Bachelor Degree in Software Engineering. I enjoy developing projects in various languages and I am always eager and open to learn new things.
 
 ## 🔧 Programming Languages and Tools
-- **Languages**: C++, CSS, Dart, Java, Java, JavaScript, Kotlin, HTML, PHP, Python
+- **Languages**: C++, CSS, Dart, Java, Java, JavaScript, Kotlin, HTML, PHP, Python, Solidity
 - **Database Management**: DBeaver, Firebase, MySQL, Oracle SQL
 - **Framework**: Flutter
 - **Tools**: Git, GitHub
